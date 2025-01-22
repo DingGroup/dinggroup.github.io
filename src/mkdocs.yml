@@ -3,7 +3,10 @@ site_url: https://mydomain.org/mysite
 theme:
   name: material
   features:
-    - navigation.tabs
+    - navigation.tabs  
+  logo: _static/logo.png
+
+plugins: []
 
 markdown_extensions:
   - attr_list
