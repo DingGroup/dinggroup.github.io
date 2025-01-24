@@ -5,6 +5,10 @@ theme:
   features:
     - navigation.tabs  
   logo: _static/logo.png
+  palette:
+    primary: indigo
+
+
 
 plugins: []
 
