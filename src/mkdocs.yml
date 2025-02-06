@@ -10,7 +10,8 @@ theme:
 
 
 
-plugins: []
+plugins:
+  - awesome-pages
 
 markdown_extensions:
   - attr_list
