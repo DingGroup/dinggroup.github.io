@@ -10,7 +10,7 @@ hide:
 - __Xinqiang Ding__
 
     ---
-    ![Image title](./_static/people/Xinqiang-Ding.jpg){ align=left}
+    ![Image title](./_static/people/Xinqiang-Ding.jpg){ align=left }
     PI
 
 

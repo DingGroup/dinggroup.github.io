@@ -9,6 +9,8 @@ hide:
 
 - 10/18/2024 - Our lab is growing! Anjali, Haoming, and John have joined the lab as PhD graduate students. Looking forward to working with you all!
 
+- 08/19/2024 - Xinqiang gave two talks at the 2024 ACS Fall Meeting in Denver, Colorado on BayesMBAR, CBayesMBAR, and potential contrasting for force field optimization with experimental data.
+
 - 07/20/2024 - Xinqiang gave a talk on BayesMBAR at the 2024 CHARMM Developer's Meeting in Baltimore. 
 
 - 07/19/2024 - Checkout the preprint of the manuscript titled "Principled Approach for Computing Free Energy on Perturbation Graphs with Cycles"
