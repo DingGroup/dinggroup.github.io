@@ -16,7 +16,7 @@ Wonmuk Hwang<sup>\*</sup>, ..., Xinqiang Ding, ..., Charles L. Brooks III<sup>\*
 [:material-link:](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c04100)
 
 1. **Optimizing force fields with experimental data using ensemble reweighting and potential contrasting**  
-Xinqiang Ding<sup>\*</sup> 
+Xinqiang Ding<sup>\*</sup>   
 *J. Phys. Chem. B* **2024**, *128*, 6760–6769
 [:material-link:](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c02147)
 
