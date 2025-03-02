@@ -11,7 +11,7 @@ Xinqiang Ding<sup>\*</sup>, John Drohan
 [:material-link:](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00948)
 
 1. **CHARMM at 45: Enhancements in Accessibility, Functionality, and Speed**  
-Wonmuk Hwang<sup>\*</sup>, ..., Xinqiang Ding, ..., Charles L. Brooks III<sup>\*</sup>, Bernard R. Brooks<sup>\*</sup> Martin Karplus  
+Wonmuk Hwang<sup>\*</sup>, ..., Xinqiang Ding, ..., Charles L. Brooks III<sup>\*</sup>, Bernard R. Brooks<sup>\*</sup>, Martin Karplus  
 *J. Phys. Chem. B* **2024**, *128*, 9976–10042
 [:material-link:](https://pubs.acs.org/doi/full/10.1021/acs.jpcb.4c04100)
 
