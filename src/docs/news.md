@@ -5,6 +5,9 @@ hide:
   - toc
 ---
 
+
+
+
 - 10/23/2024 - Our paper on CBayesMBAR is published on *JCTC*! It provides a principled Bayesian approach to compute free energy differences and uncertainties on perturbation graphs with cycles.
 
 - 10/18/2024 - Our lab is growing! Anjali, Haoming, and John have joined the lab as PhD graduate students. Looking forward to working with you all!
