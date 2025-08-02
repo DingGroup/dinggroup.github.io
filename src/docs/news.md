@@ -7,6 +7,21 @@ hide:
 
 
 
+- 07/18/2025 - Xinqiang gave a talk on optimizing force fields with experimental data at the 2025 CHARMM Developer's Meeting in Tallahassee, FL.
+
+
+- 05/06/2025 - All lab members attended the 2025 Free Energy Workshop in Boston, MA. Xinqiang gave a talk and both Kun and Haoming presented posters on their research.
+
+
+- 03/05/2025 - Xinqiang visited the Department of Pharmaceutical Sciences at the University of Maryland and gave a talk on "Optimizing Force Fields with Experimental Data".
+
+---
+
+- 12/20/2024 - The lab celebrated the first holiday season together with a lab lunch at a local restaurant.
+
+<figure markdown="span">
+  ![Image title](./_static/lab-lunch-Dec-2024.jpg){ width="400" }
+</figure>
 
 - 10/23/2024 - Our paper on CBayesMBAR is published on *JCTC*! It provides a principled Bayesian approach to compute free energy differences and uncertainties on perturbation graphs with cycles.
 
