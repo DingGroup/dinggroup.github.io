@@ -6,6 +6,8 @@ hide:
 ---
 
 
+- 09/01/2025 - The Ding lab received the NIH MIRA award to support research on "Advancing Free Energy Methods for Drug Design"!
+
 
 - 07/18/2025 - Xinqiang gave a talk on optimizing force fields with experimental data at the 2025 CHARMM Developer's Meeting in Tallahassee, FL.
 
