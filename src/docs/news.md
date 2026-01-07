@@ -6,7 +6,7 @@ hide:
 ---
 
 
-- 12/10/2025 - Xinqiang gave a talk on in the [Great Boston Area Theoretical Chemistry Seminar Series](https://sites.bu.edu/theochem/events/2025-2026/) on "Free Energy Calculations Meet Machine Learning and Bayesian Statistics" and visited chemistry departments at MIT, Harvard, and BU.
+- 12/10/2025 - Xinqiang gave a talk in the [Great Boston Area Theoretical Chemistry Seminar Series](https://sites.bu.edu/theochem/events/2025-2026/) on "Free Energy Calculations Meet Machine Learning and Bayesian Statistics" and visited chemistry departments at MIT, Harvard, and BU.
 
 - 09/01/2025 - The Ding lab received the NIH MIRA award to support research on "Advancing Free Energy Methods for Drug Design"!
 
