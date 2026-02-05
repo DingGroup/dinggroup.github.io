@@ -14,11 +14,11 @@ hide:
     PI
 
 
-<!-- - __Kun Yue__
+- __Jiaqi Zhu__
 
     ---
-    ![Image title](./_static/people/Kun-Yue.jpg){ align=left }
-    Postdoc -->
+    ![Image title](./_static/people/Jiaqi-Zhu.jpg){ align=left }
+    Postdoc
 
 
 -   __Anjali Dhar__
