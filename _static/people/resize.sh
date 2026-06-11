@@ -1,5 +1,6 @@
 names=(
     "Xinqiang-Ding"
+    "Jiaqi-Zhu"
     "John-Drohan"
     "Haoming-Su" 
     "Anjali-Dhar"
@@ -8,6 +9,7 @@ names=(
     "Ryan-Cooley"
     "Sophia-Gerogiannis"
     "Khoa-Nguyen"
+    "Tomas-Carreno"
 )
 
 for name in "${names[@]}"; do
