@@ -50,6 +50,18 @@ hide:
 
 <div class="grid cards people" markdown>
 
+-   ![Photo of Christine Wong](./_static/people/Christine-Wong.jpg){ .person-photo }
+    <span class="person-name">Christine Wong</span>
+    <span class="person-role">Undergraduate Student</span>
+
+-   ![Photo of Khoa Nguyen](./_static/people/Khoa-Nguyen.jpg){ .person-photo }
+    <span class="person-name">Khoa Nguyen</span>
+    <span class="person-role">Undergraduate Student</span>
+
+-   ![Photo of Sophia Gerogiannis](./_static/people/Sophia-Gerogiannis.jpg){ .person-photo }
+    <span class="person-name">Sophia Gerogiannis</span>
+    <span class="person-role">Undergraduate Student</span>
+
 -   ![Photo of Ryan Cooley](./_static/people/Ryan-Cooley.jpg){ .person-photo }
     <span class="person-name">Ryan Cooley</span>
     <span class="person-role">Undergraduate Student</span>
@@ -67,17 +79,5 @@ hide:
 -   ![Photo of Kun Yue](./_static/people/Kun-Yue.jpg){ .person-photo }
     <span class="person-name">Kun Yue</span>
     <span class="person-role">Postdoc</span>
-
--   ![Photo of Christine Wong](./_static/people/Christine-Wong.jpg){ .person-photo }
-    <span class="person-name">Christine Wong</span>
-    <span class="person-role">Undergraduate Student</span>
-
--   ![Photo of Khoa Nguyen](./_static/people/Khoa-Nguyen.jpg){ .person-photo }
-    <span class="person-name">Khoa Nguyen</span>
-    <span class="person-role">Undergraduate Student</span>
-
--   ![Photo of Sophia Gerogiannis](./_static/people/Sophia-Gerogiannis.jpg){ .person-photo }
-    <span class="person-name">Sophia Gerogiannis</span>
-    <span class="person-role">Undergraduate Student</span>
 
 </div>
