@@ -5,6 +5,11 @@ hide:
   - toc
 ---
 
+1. **Free Energy Calculations Meet Generative Machine Learning**  
+Xinqiang Ding<sup>\*</sup>, Haoming Su, Jiaqi Zhu  
+*ChemRxiv* **2026** (preprint)
+[:material-link:](https://doi.org/10.26434/chemrxiv.15004549/v1)
+
 1. **Bayesian approach for computing free energy on perturbation graphs with cycles**   
 Xinqiang Ding<sup>\*</sup>, John Drohan  
 *J. Chem. Theory Comput.* **2024**, *20*, 10384–10392

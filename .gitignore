@@ -8,5 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+.venv.nosync
+
+# Zensical build output and cache
+src/site/
+.cache/
 
 .DS_Store

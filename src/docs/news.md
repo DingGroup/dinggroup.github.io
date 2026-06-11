@@ -7,6 +7,18 @@ hide:
 
 
 
+- 06/09/2026 - Our preprint ["Free Energy Calculations Meet Generative Machine Learning"](https://doi.org/10.26434/chemrxiv.15004549/v1) is now on ChemRxiv!
+
+- 05/18/2026 - The lab had lunch together at a local sushi place to celebrate the end of the semester and the start of the summer!
+
+<figure markdown="span">
+  ![Lab lunch at a sushi restaurant, May 2026](./_static/lab-lunch-5-18-2026.jpg){ width="400" }
+</figure>
+
+- 05/18/2026 - Welcome Tomas Carreno, who joins the lab as an undergraduate student. Welcome on board, Tomas!
+
+- 05/18/2026 - Congratulations to Ryan Cooley on starting an internship at Takeda! We are excited for him to apply his skills in the pharmaceutical industry.
+
 - 02/02/2026 - Welcome Jiaqi Zhu as a new postdoc in the Ding lab! Jiaqi received her PhD in Chemistry from the Dartmouth College working with Prof. Paul Robustelli. She will be working on advancing free energy calculations. Excited to have you on board, Jiaqi!
 
 ---

@@ -20,19 +20,12 @@ jobs:
         with:
           python-version-file: "pyproject.toml"
 
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - run: uv run zensical build --clean -f src/zensical.toml
 
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-
-      - run: uv run mkdocs gh-deploy --force -f src/mkdocs.yml
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: src/site
 
       

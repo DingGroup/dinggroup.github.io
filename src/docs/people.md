@@ -5,65 +5,79 @@ hide:
   - toc
 ---
 
-<div class="grid cards" markdown>
+## Principal Investigator
 
-- __Xinqiang Ding__
+<div class="grid cards people" markdown>
 
-    ---
-    ![Image title](./_static/people/Xinqiang-Ding.jpg){ align=left }
-    PI
+-   ![Photo of Xinqiang Ding](./_static/people/Xinqiang-Ding.jpg){ .person-photo }
+    <span class="person-name">Xinqiang Ding</span>
+    <span class="person-role">Principal Investigator</span>
+    <span class="person-links">
+    [:material-email:](mailto:Xinqiang.Ding@tufts.edu "Email")
+    </span>
 
+</div>
 
-- __Jiaqi Zhu__
+## Postdoctoral Researchers
 
-    ---
-    ![Image title](./_static/people/Jiaqi-Zhu.jpg){ align=left }
-    Postdoc
+<div class="grid cards people" markdown>
 
+-   ![Photo of Jiaqi Zhu](./_static/people/Jiaqi-Zhu.jpg){ .person-photo }
+    <span class="person-name">Jiaqi Zhu</span>
+    <span class="person-role">Postdoc</span>
 
--   __Anjali Dhar__
+</div>
 
-    ---
-    ![Image title](./_static/people/Anjali-Dhar.jpg){ align=left }
-    Graduate Student
+## Graduate Students
 
--  __John Drohan__
+<div class="grid cards people" markdown>
 
-    ---
-    ![Image title](./_static/people/John-Drohan.jpg){ align=left }
-    Graduate Student
+-   ![Photo of Anjali Dhar](./_static/people/Anjali-Dhar.jpg){ .person-photo }
+    <span class="person-name">Anjali Dhar</span>
+    <span class="person-role">Graduate Student</span>
 
--  __Haoming Su__
+-   ![Photo of John Drohan](./_static/people/John-Drohan.jpg){ .person-photo }
+    <span class="person-name">John Drohan</span>
+    <span class="person-role">Graduate Student</span>
 
-    ---
-    ![Image title](./_static/people/Haoming-Su.jpg){ align=left }
-    Graduate Student
+-   ![Photo of Haoming Su](./_static/people/Haoming-Su.jpg){ .person-photo }
+    <span class="person-name">Haoming Su</span>
+    <span class="person-role">Graduate Student</span>
 
+</div>
 
+## Undergraduate Students
 
-- __Christine Wong__
+<div class="grid cards people" markdown>
 
-    ---
-    ![Image title](./_static/people/Christine-Wong.jpg){ align=left }
-    Undergraduate Student
-  
-- __Khoa Nguyen__
+-   ![Photo of Ryan Cooley](./_static/people/Ryan-Cooley.jpg){ .person-photo }
+    <span class="person-name">Ryan Cooley</span>
+    <span class="person-role">Undergraduate Student</span>
 
-    ---
-    ![Image title](./_static/people/Khoa-Nguyen.jpg){ align=left }
-    Undergraduate Student
+-   ![Photo of Tomas Carreno](./_static/people/Tomas-Carreno.jpg){ .person-photo }
+    <span class="person-name">Tomas Carreno</span>
+    <span class="person-role">Undergraduate Student</span>
 
-- __Sophia Gerogiannis__
+</div>
 
-    ---
-    ![Image title](./_static/people/Sophia-Gerogiannis.jpg){ align=left }
-    Undergraduate Student
+## Alumni
 
-- __Ryan Cooley__
+<div class="grid cards people" markdown>
 
-    ---
-    ![Image title](./_static/people/Ryan-Cooley.jpg){ align=left }
-    Undergraduate Student
+-   ![Photo of Kun Yue](./_static/people/Kun-Yue.jpg){ .person-photo }
+    <span class="person-name">Kun Yue</span>
+    <span class="person-role">Postdoc</span>
 
+-   ![Photo of Christine Wong](./_static/people/Christine-Wong.jpg){ .person-photo }
+    <span class="person-name">Christine Wong</span>
+    <span class="person-role">Undergraduate Student</span>
+
+-   ![Photo of Khoa Nguyen](./_static/people/Khoa-Nguyen.jpg){ .person-photo }
+    <span class="person-name">Khoa Nguyen</span>
+    <span class="person-role">Undergraduate Student</span>
+
+-   ![Photo of Sophia Gerogiannis](./_static/people/Sophia-Gerogiannis.jpg){ .person-photo }
+    <span class="person-name">Sophia Gerogiannis</span>
+    <span class="person-role">Undergraduate Student</span>
 
 </div>
