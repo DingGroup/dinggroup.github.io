@@ -12,19 +12,10 @@ hide:
 -   ![Photo of Xinqiang Ding](./_static/people/Xinqiang-Ding.jpg){ .person-photo }
     <span class="person-name">Xinqiang Ding</span>
     <span class="person-role">Principal Investigator</span>
+    <span class="person-edu">BS, Peking University; PhD, University of Michigan</span>
     <span class="person-links">
     [:material-email:](mailto:Xinqiang.Ding@tufts.edu "Email")
     </span>
-
-</div>
-
-## Postdoctoral Researchers
-
-<div class="grid cards people" markdown>
-
--   ![Photo of Jiaqi Zhu](./_static/people/Jiaqi-Zhu.jpg){ .person-photo }
-    <span class="person-name">Jiaqi Zhu</span>
-    <span class="person-role">Postdoc</span>
 
 </div>
 
@@ -35,14 +26,17 @@ hide:
 -   ![Photo of Anjali Dhar](./_static/people/Anjali-Dhar.jpg){ .person-photo }
     <span class="person-name">Anjali Dhar</span>
     <span class="person-role">Graduate Student</span>
+    <span class="person-edu">BS, Dartmouth College</span>
 
 -   ![Photo of John Drohan](./_static/people/John-Drohan.jpg){ .person-photo }
     <span class="person-name">John Drohan</span>
     <span class="person-role">Graduate Student</span>
+    <span class="person-edu">BS &amp; MS, Northeastern University</span>
 
 -   ![Photo of Haoming Su](./_static/people/Haoming-Su.jpg){ .person-photo }
     <span class="person-name">Haoming Su</span>
     <span class="person-role">Graduate Student</span>
+    <span class="person-edu">BS, Sichuan University</span>
 
 </div>
 
@@ -75,6 +69,10 @@ hide:
 ## Alumni
 
 <div class="grid cards people" markdown>
+
+-   ![Photo of Jiaqi Zhu](./_static/people/Jiaqi-Zhu.jpg){ .person-photo }
+    <span class="person-name">Jiaqi Zhu</span>
+    <span class="person-role">Postdoc; now at Topos Bio</span>
 
 -   ![Photo of Kun Yue](./_static/people/Kun-Yue.jpg){ .person-photo }
     <span class="person-name">Kun Yue</span>

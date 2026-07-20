@@ -25,6 +25,12 @@
   font-size: 0.7rem;
 }
 
+.md-typeset .people.grid.cards .person-edu {
+  display: block;
+  opacity: 0.55;
+  font-size: 0.65rem;
+}
+
 .md-typeset .people.grid.cards .person-links {
   display: block;
   margin-top: 0.3rem;

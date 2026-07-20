@@ -7,6 +7,8 @@ hide:
 
 
 
+- 07/17/2026 - Congratulations to Jiaqi Zhu, who is leaving the lab to join Topos Bio! We wish her all the best in her new role in industry and thank her for her contributions to the lab.
+
 - 06/09/2026 - Our preprint ["Free Energy Calculations Meet Generative Machine Learning"](https://doi.org/10.26434/chemrxiv.15004549/v1) is now on ChemRxiv!
 
 - 05/18/2026 - The lab had lunch together at a local sushi place to celebrate the end of the semester and the start of the summer!
