@@ -10,12 +10,12 @@ hide:
   Drug discovery is a slow and expensive process. We aim to accelerate it by developing advanced computational methods. Specifically, we focus on creating efficient and accurate techniques for computing protein-ligand binding free energies. Our approaches leverage a rigorous synergy between statistical mechanics and machine learning. Recent advances in machine learning, particularly deep probabilistic generative models, offer exciting opportunities to develop groundbreaking methods for drug design.
 
 
+- :material-triforce:{ .lg .middle} __Fold-switching Proteins__   
+Fold-switching proteins are a unique class of proteins that can adopt multiple stable conformations. The ability of these proteins to switch folds is often required for their biological function. However, the mechanisms underlying fold-switching remain poorly understood and predicting fold-switching proteins is challenging. Our research aims to develop computational methods to predict fold-switching proteins and understand the mechanisms behind their fold-switching behavior.
+
+
 - :material-tools:{ .lg .middle } __Method development combining MD and ML__  
 Molecular simulations, complementary to experimental techniques, have been an indispensable tool for studying chemical and biological processes by providing dynamic information at or near the atomic level. However, like any other tool, molecular simulations have limitations, particularly when applied to complex systems. Recent advances in machine learning offer powerful computational methods and software tools that complement molecular simulations. Our goal is to rigorously integrate machine learning with molecular dynamics to develop efficient and broadly applicable simulation methods. Our current research focuses on developing new methods for efficient sampling of biomolecular conformational ensembles.
-
-
-- :material-triforce:{ .lg .middle} __Coarse-grained force field development__   
-Due to the limited computing power of existing hardware, simulating large chemical and biological systems often requires coarse-grained simulations. Our goal is to develop an accurate and transferable coarse-grained force field for biomolecules in a systematic manner. The data used to train this force field include both all-atom simulations and experimental measurements. To efficiently learn from large datasets, we employ our novel learning algorithm, potential contrasting, to refine the coarse-grained force field.
 
 
 - :material-dots-circle:{ .lg .middle } __Multiscale modeling of biomolecular condenstates__  
